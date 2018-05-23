@@ -1,0 +1,12 @@
+dependencies:
+  left-pad: 1.0.0
+packages:
+  /left-pad/1.0.0:
+    dev: false
+    resolution:
+      integrity: sha1-yE4kF1gbu46vK549ehIuVyqxrzc=
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 7
+shrinkwrapVersion: 3
+specifiers:
+  left-pad: 1.0.0
